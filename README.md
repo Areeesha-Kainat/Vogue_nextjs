@@ -1,3 +1,18 @@
+# Vogue Website Overview
+
+Welcome to our beautifully designed three-page Vogue website, featuring a Homepage, Runway, and PhotoVogue section. 
+
+## - Homepage:
+The landing page captures the essence of Vogue's fashion world, showcasing featured articles, the latest trends, and stunning visuals that invite visitors to explore further.
+
+## - Runway:
+-  Dive into the glamour of runway fashion with this dedicated page. It highlights the most recent collections, designer showcases, and iconic moments from the runway, ensuring a captivating experience for fashion enthusiasts.
+
+## - PhotoVogue:
+- This page is a visual feast, displaying stunning photographs that celebrate fashion artistry. Each image tells a story, highlighting the creativity and style that Vogue is renowned for.
+
+All pages are designed with a responsive layout, ensuring seamless navigation across devices. A navbar at the top provides easy access to all sections, while a footer enriches the user experience with additional links and information. Built using Next.js and styled with Tailwind CSS, this website boasts a clean, modern UI that enhances user engagement and aesthetic appeal.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
